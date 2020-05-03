@@ -1,0 +1,22 @@
+body {
+    background: #20199a;
+}
+
+.game {
+    border: #ffffff 10px solid;
+    display: table;
+    margin: 0 auto;
+}
+
+.creature {
+    width: 10px;
+    height: 10px;
+}
+
+.dead {
+    background: black;
+}
+
+.living {
+    background: red;
+}
